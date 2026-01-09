@@ -1,0 +1,9 @@
+[33m6d23ad7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 6d23ad7
+[33mf7c030c[m HEAD@{1}: checkout: moving from master to master
+[33mf7c030c[m HEAD@{2}: checkout: moving from Blog-&-Blog-Details to master
+[33m04cd927[m[33m ([m[1;31morigin/Blog-&-Blog-Details[m[33m, [m[1;32mBlog-&-Blog-Details[m[33m)[m HEAD@{3}: commit: feat: Implement blog page with filtering, pagination, and scroll-to-top functionality
+[33m564a62f[m[33m ([m[1;31morigin/Amal[m[33m, [m[1;32mAmal[m[33m)[m HEAD@{4}: checkout: moving from Amal to Blog-&-Blog-Details
+[33m564a62f[m[33m ([m[1;31morigin/Amal[m[33m, [m[1;32mAmal[m[33m)[m HEAD@{5}: commit: Implement homepage layout with dynamic categories, featured blogs, and newsletter subscription; add animations and constants for hero slides and blog features
+[33m6d23ad7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{6}: commit: Refactor code structure and remove redundant code blocks for improved readability and maintainability, Design Footer & Navbar Components
+[33mf7c030c[m HEAD@{7}: checkout: moving from master to Amal
+[33mf7c030c[m HEAD@{8}: clone: from https://github.com/Entrovex/blog-app-amal.git
