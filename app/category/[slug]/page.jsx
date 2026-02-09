@@ -9,8 +9,9 @@ export default function CategoryPage() {
   const { slug } = useParams();
 
   const blogs = mockBlogs.filter(
-    (blog) => blog.category.toLowerCase() === slug.toLowerCase()
+    (blog) => blog.category?.toLowerCase() === slug?.toLowerCase(),
   );
+
 
   if (!blogs.length)
     return (
